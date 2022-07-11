@@ -193,3 +193,15 @@
 [BOJ] 10830_행렬 제곱 / G4  
 [BOJ] 12851_숨바꼭질 2 / G4  
 [BOJ] 2981_검문 / G4  
+
+-----------------
+## ~22.07.11 : Gold II 1347 (9문제)
+[BOJ] 7541_StuPId / Unrated  
+[BOJ] 7803_Burger, French Fries, Soft Drink / Unrated  
+[BOJ] 4378_트ㅏㅊ; / S5  
+[BOJ] 19699_소-난다! / S2  
+[BOJ] 2468_안전 영역 / S1  
+[BOJ] 15927_회문은 회문아니야!! / G5  
+[BOJ] 7569_토마토 / G5  
+[BOJ] 18185_라면 사기 (Small) / D4  
+[BOJ] 18186_라면 사기 (Large) / D4  
